@@ -1,8 +1,8 @@
 
-# 01_prova
+# Prova 01
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of 01_prova is to ...
+Esse repositorio é referente a prova 01, da disciplina de introdução a estatistica da universidade federal do reconcavo da bahia, no centro de formaçao de profesores.
 
