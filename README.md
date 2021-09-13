@@ -5,4 +5,5 @@
 <!-- badges: end -->
 
 Esse repositorio é referente a prova 01, da disciplina de introdução a estatistica da universidade federal do reconcavo da bahia, no centro de formaçao de profesores.
+file:///C:/Users/Michely/OneDrive/Documentos/repositorios_GitHub/01_prova/index.nb.html
 
